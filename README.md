@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @lfechne
-- 👀 I’m interested in:               Control Theory, C++, Bash Script, Phython, Java, Raspi4 Home Server, Secure Systems
-- 🌱 I’m currently learning:          
+- 👀 I’m interested in:               Control Theory, Raspi4 Home Server, Secure Systems
+- ⌨️ I can code in:                   C++/C/C#, Bash Script, Phython, Java
 - 💞️ I’m looking to collaborate on:   Useful projects for the RasPi4.
+- 🌱 I’m currently learning:          
 - 📫 How to reach me lks@fchnr.de
